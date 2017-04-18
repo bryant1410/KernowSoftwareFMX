@@ -19,7 +19,7 @@ If you'd like to support the ksComponents project, you can do so at the followin
 
 http://www.kernow-software.co.uk/?page_id=397
 
-###TksTableView
+### TksTableView
 
 - Cached table view provides native performance regardless of the number of text/items/graphics added
 - support for embedded switches
@@ -34,7 +34,7 @@ http://www.kernow-software.co.uk/?page_id=397
 - "Sticky" headers
 
 
-###TksSlideMenu
+### TksSlideMenu
 
 - set menu background colour
 - set selected item colour
@@ -45,34 +45,34 @@ http://www.kernow-software.co.uk/?page_id=397
 - inherites from non-visual Tcomponent for quick integration into existing projects
 - uses bitmap caching for optimised performance
 
-###TksSegmentButtons
+### TksSegmentButtons
 
 - segment button component
 - support for iOS style badges
 
-###TksFormTransition
+### TksFormTransition
 
 - component for animating transitions between forms
 
-###TksTabControl
+### TksTabControl
 
 - Tab control component with support for different colours/themes
 - Large number of built-in icons
 - Support for iOS style badges
 
-###TksNetHttpClient
+### TksNetHttpClient
 
 - enhanced http client with ASync Get method
 
-###TksTileMenu
+### TksTileMenu
 
 - simple but effective main menu component
 
-###TksChatView
+### TksChatView
 
 - component for building iOS style chat applications
 
-###TksSpeedButton
+### TksSpeedButton
 
 - TSpeedButton descendant with support for iOS style badges
 
